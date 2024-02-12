@@ -1,4 +1,4 @@
-name: 'Beanstalk Deploy'
+name: 'Elastic Beanstalk Deployer'
 description: 'Deploy a zip file to AWS Elastic Beanstalk'
 author: 'Einar Egilsson'
 runs:
