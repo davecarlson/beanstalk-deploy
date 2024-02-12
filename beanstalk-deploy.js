@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Author: Einar Egilsson, https://github.com/einaregilsson/beanstalk-deploy
+// Author: Einar Egilsson (forked by Dave Carlson), https://github.com/davecarlson/beanstalk-deploy
 
 const awsApiRequest = require('./aws-api-request');
 const fs = require('fs');
